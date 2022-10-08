@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : Zynn-XD
+𝐖𝐚 : 085714056133
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -34,10 +34,10 @@
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
 ⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝒓𝑻𝒐𝒏
-let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
-  let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
+let nowner1 = `${6285714056133.split`@`[0]}@s.whatsapp.net`
+  let nowner2 = `${6285714056133.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ @${nomorown1.split`@`[0]} ✦
+✦ @${6285714056133.split`@`[0]} ✦
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -80,38 +80,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6285714056133', 'Zynn-XD', true],
+['6285714056133', 'ZynnOfc', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
-global.nomorwa = '0'
+global.nomorbot = '625695952575'
+global.nomorown = '6285714056133'
+global.nomorown1 = '6285714056133'
+global.nomorown2 = '6285695952575'
+global.nomorwa = '085714056133'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.author = 'Zynn-XD'
+global.namebot = '​ RyzenBot'
+global.wm = '© RyzenBot By Zynn-XD'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = 'RyzenBot '
 global.watermark = wm
-global.wm2 = 'DaniXd '
+global.wm2 = 'Zynn-XD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
 global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.stickauth = `© RyzenBot MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= 'Zynn-XD'
+global.nameown2 = 'ZynnOfc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -125,13 +125,13 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
+global.pdana = '0857 1405 6133'
 global.povo = '-'
-global.pgopay = '0813 5284 8936'
+global.pgopay = '0857 1405 6133'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081352848936'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0857 1405 6133'
+global.ppulsa2 = '085695952575'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -275,7 +275,7 @@ global.APIs = { // API Prefix
 //⳹ NOTE !! EXAMPLE ➢ Name Api: 'website api'
 
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://api.zynn.xyz': 'Zynn'
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
@@ -290,7 +290,7 @@ global.APIKeys = { // APIKey Here
   'https://violetics.pw': 'beta',
   'https://ziy.herokuapp.com' : 'xZiyy'
 }
-//⳹ NOTE !! EXAMPLE ➢ 'https://WebsiteApi': 'Apikey'
+//⳹ NOTE !! EXAMPLE ➢ 'https://api.zynn.xyz': 'Zynn
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OTHER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -343,7 +343,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "-"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0813 6128 1833'
 
