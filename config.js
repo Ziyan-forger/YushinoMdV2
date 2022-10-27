@@ -96,8 +96,8 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'ᴢʏɴɴ - xᴅ'
-global.namebot = '​ Ryuu'
-global.wm = '© Ryuu By ᴢʏɴɴ - xᴅ'
+global.namebot = '​ Yushino'
+global.wm = '© Yushino By ᴢʏɴɴ - xᴅ'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = 'ᴢʏɴɴ - xᴅ '
 global.watermark = wm
@@ -106,7 +106,7 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
 global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.stickauth = `© Yushino MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
